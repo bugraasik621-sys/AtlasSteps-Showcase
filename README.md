@@ -33,10 +33,10 @@ Günümüz seyahat uygulamalarının statik yapısını aşmak için geliştiril
 <p align="center">
   <img src="./atlassteps_ekranlar/craiyon_233307_image.png" width="30%" />
   <img src="./atlassteps_ekranlar/craiyon_233309_image.png" width="30%" />
-  <img src="./atlassteps_ekranlar/craiyon_233311_image.png" width="30%" />
+  <img src="./atlassteps_ekranlar/craiyon_233313_image.png" width="30%" />
 </p>
 <p align="center">
-  <img src="./atlassteps_ekranlar/craiyon_233313_image.png" width="30%" />
   <img src="./atlassteps_ekranlar/craiyon_233314_image.png" width="30%" />
   <img src="./atlassteps_ekranlar/craiyon_233316_image.png" width="30%" />
+  <img src="./atlassteps_ekranlar/craiyon_233318_image.png" width="30%" />
 </p>
