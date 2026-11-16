@@ -37,6 +37,6 @@ Günümüz seyahat uygulamalarının statik yapısını aşmak için geliştiril
 </p>
 <p align="center">
   <img src="./atlassteps_ekranlar/craiyon_233316_image.png" width="30%" />
-  <img src="./atlassteps_ekranlar/craiyon_233318_image.png" width="30%" />
   <img src="./atlassteps_ekranlar/craiyon_233320_image.png" width="30%" />
+  <img src="./atlassteps_ekranlar/craiyon_233322_image.png" width="30%" />
 </p>
