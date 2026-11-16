@@ -26,3 +26,17 @@ Günümüz seyahat uygulamalarının statik yapısını aşmak için geliştiril
 * **Dinamik Rota Revizyonu:** Seyahat esnasında anlık enerji ve bütçe durumuna göre planı saniyeler içinde güncelleyen akıllı mantık.
 * **Oyunlaştırma & Check-in:** 100 metre GPS yarıçaplı geofencing doğrulaması, check-in sonrası şans çarkı puan çarpanı ve liderlik tablosu rekabeti.
 * **Uygulama İçi Canlı Navigasyon:** Off-route tespiti ve otomatik yeniden hesaplama özellikli adım adım yönlendirme motoru.
+
+---
+## 📱 Uygulama Arayüzünden Kareler
+
+<p align="center">
+  <img src="./atlassteps_ekranlar/craiyon_233307_image.png" width="30%" />
+  <img src="./atlassteps_ekranlar/craiyon_233309_image.png" width="30%" />
+  <img src="./atlassteps_ekranlar/craiyon_233311_image.png" width="30%" />
+</p>
+<p align="center">
+  <img src="./atlassteps_ekranlar/craiyon_233313_image.png" width="30%" />
+  <img src="./atlassteps_ekranlar/craiyon_233314_image.png" width="30%" />
+  <img src="./atlassteps_ekranlar/craiyon_233316_image.png" width="30%" />
+</p>
